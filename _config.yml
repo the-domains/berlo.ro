@@ -1,0 +1,28 @@
+name: berlo.ro
+favicon: null
+layout_spectrum: 0.6129108902532607
+typography_spectrum: 0.6367879072204232
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3081443926785141
+  lightness: 0.8670228456612676
+  saturation: 0.44912285869941115
+  rhythmicContrast: 0.7267858600243926
+purpose: []
