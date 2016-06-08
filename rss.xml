@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[BERLO]]></title>
-        <description><![CDATA[BERLO]]></description>
+        <title><![CDATA[Eugen Berlo ArPhitect]]></title>
+        <description><![CDATA[Eugen Berlo ArPhitect]]></description>
         <link>http://www.berlo.ro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 13:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 09:28:43 GMT</lastBuildDate>
         <atom:link href="http://www.berlo.ro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bay Point Island ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb94d7b8-e6e4-463b-9649-f8a5d2a6ef86.jpg">]]></description>
+            <link>http://www.berlo.ro/bay-point-island/index.html</link>
+            <guid isPermaLink="false">16e42733-baa6-4591-9513-13748dabc446</guid>
+            <pubDate>Wed, 08 Jun 2016 09:28:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bay Point Island]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ad2a1b6-f70c-4fcf-ab3a-15201f45d265.jpg">]]></description>
