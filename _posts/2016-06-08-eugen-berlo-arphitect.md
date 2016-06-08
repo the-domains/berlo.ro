@@ -11,8 +11,8 @@ description: >-
   for some of the New York City’s most eminent architectural firms, including
   world’s highly renowned Skidmore, Owings and Merrill (SOM) architectural,
   planning and Engineering company.
-datePublished: '2016-06-08T18:02:22.019Z'
-dateModified: '2016-06-08T18:02:17.847Z'
+datePublished: '2016-06-08T18:11:50.741Z'
+dateModified: '2016-06-08T18:11:45.516Z'
 title: ArPhiTect
 author: []
 sourcePath: _posts/2016-06-08-eugen-berlo-arphitect.md
@@ -31,7 +31,7 @@ Established by Eugen Berlo in 2015, [ArPhiTect][0] is an architectural practice 
 
 With Bachelors in Math and Architecture from the University of Bucharest, he continued his education in Fine Arts at Fashion Institute of Technology of NYC. Prior to inception of Eugen Berlo ArPhiTect, he worked as an architect for some of the New York City's most eminent architectural firms, including world's highly renowned Skidmore, Owings and Merrill (SOM) architectural, planning and Engineering company.
 
-**Contact **at jointventure @ site address
+**Contact **at jointventure @ berlo dot net
 
 _(c) ArPhiTect(tm) | Pixels created by [PixR2][1]_
 
