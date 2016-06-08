@@ -11,8 +11,8 @@ description: >-
   for some of the New York City’s most eminent architectural firms, including
   world’s highly renowned Skidmore, Owings and Merrill (SOM) architectural,
   planning and Engineering company.
-datePublished: '2016-06-08T17:56:21.226Z'
-dateModified: '2016-06-08T17:56:15.185Z'
+datePublished: '2016-06-08T17:57:33.168Z'
+dateModified: '2016-06-08T17:57:29.494Z'
 title: ArPhiTect
 author: []
 sourcePath: _posts/2016-06-08-eugen-berlo-arphitect.md
@@ -33,4 +33,7 @@ With Bachelors in Math and Architecture from the University of Bucharest, he con
 
 **Contact **at jointventure @ site address
 
+_(c) ArPhiTect(tm) | Pixels created by [PixR2][1]_
+
 [0]: berlo.ro
+[1]: pixr2.com
