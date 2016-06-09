@@ -4,7 +4,7 @@
         <description><![CDATA[Eugen Berlo ArPhitect]]></description>
         <link>http://www.berlo.ro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 18:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 09:01:29 GMT</lastBuildDate>
         <atom:link href="http://www.berlo.ro/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ArPhiTect]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.berlo.ro/eugen-berlo-arphitect/index.html</link>
             <guid isPermaLink="false">f78d8c4e-2392-4958-81b2-3cff3210aea1</guid>
             <pubDate>Wed, 08 Jun 2016 18:11:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gail House ]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fac6fa3-1ac5-4eaf-b0d4-cf43ae07813a.jpg">]]></description>
+            <link>http://www.berlo.ro/gail-house/index.html</link>
+            <guid isPermaLink="false">7ba657a2-0f20-4097-9148-88e27df2a1c3</guid>
+            <pubDate>Thu, 09 Jun 2016 09:01:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Edge House ]]></title>
@@ -32,13 +39,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24e610a6-27d6-4b4a-833c-68363b241b09.jpg">]]></description>
             <link>http://www.berlo.ro/cathill-house/index.html</link>
             <guid isPermaLink="false">0f5e04de-16f3-4802-adfc-3961f9c978a2</guid>
-            <pubDate>Wed, 08 Jun 2016 17:26:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gail House ]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fac6fa3-1ac5-4eaf-b0d4-cf43ae07813a.jpg">]]></description>
-            <link>http://www.berlo.ro/gail-house/index.html</link>
-            <guid isPermaLink="false">7ba657a2-0f20-4097-9148-88e27df2a1c3</guid>
             <pubDate>Wed, 08 Jun 2016 17:26:16 GMT</pubDate>
         </item>
         <item>
