@@ -11,14 +11,14 @@ description: >-
   for some of the New York City’s most eminent architectural firms, including
   world’s highly renowned Skidmore, Owings and Merrill (SOM) architectural,
   planning and Engineering company.
-datePublished: '2016-06-08T18:11:50.741Z'
-dateModified: '2016-06-08T18:11:45.516Z'
+datePublished: '2016-06-09T09:01:48.399Z'
+dateModified: '2016-06-09T09:01:39.436Z'
 title: ArPhiTect
 author: []
 sourcePath: _posts/2016-06-08-eugen-berlo-arphitect.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: eugen-berlo-arphitect/index.html
 _type: Article
 
