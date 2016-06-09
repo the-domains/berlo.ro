@@ -11,8 +11,8 @@ description: >-
   for some of the New York City’s most eminent architectural firms, including
   world’s highly renowned Skidmore, Owings and Merrill (SOM) architectural,
   planning and Engineering company.
-datePublished: '2016-06-09T09:01:48.399Z'
-dateModified: '2016-06-09T09:01:39.436Z'
+datePublished: '2016-06-09T09:31:04.384Z'
+dateModified: '2016-06-09T09:31:01.227Z'
 title: ArPhiTect
 author: []
 sourcePath: _posts/2016-06-08-eugen-berlo-arphitect.md
@@ -27,7 +27,7 @@ _type: Article
 
 Established by Eugen Berlo in 2015, [ArPhiTect][0] is an architectural practice and crossdomain venture dedicated to explore and work within Value Inheritance and Golden Mean Geometric Principles using artistic and architectural means and processes. Our master believe is that great projects have strong aesthetic, functional and social ideas clad onto a core vision, engaged by both the client and maker, and able to create life and prosperity to the inhabitants and the surrounding community. With each project we push for simplicity and innovation, all with respect for environment, and site cultural and material values, and like establishing relationships that can build and develop future grounds.
 
-**Eugen Bogdan Berlo**
+**Eugen Bogdan Berlo**  
 
 With Bachelors in Math and Architecture from the University of Bucharest, he continued his education in Fine Arts at Fashion Institute of Technology of NYC. Prior to inception of Eugen Berlo ArPhiTect, he worked as an architect for some of the New York City's most eminent architectural firms, including world's highly renowned Skidmore, Owings and Merrill (SOM) architectural, planning and Engineering company.
 
