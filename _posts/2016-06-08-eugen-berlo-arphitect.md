@@ -7,13 +7,13 @@ keywords: []
 description: >-
   With Bachelors in Math and Architecture from the University of Bucharest, he
   continued his education in Fine Arts at Fashion Institute of Technology of
-  NYC. Prior to inception of Eugen Berlo ArPhiTect, he worked as an architect
+  NYC. Prior to inception of Eugen Berlo Architect, he worked as an architect
   for some of the New York City’s most eminent architectural firms, including
   world’s highly renowned Skidmore, Owings and Merrill (SOM) architectural,
   planning and Engineering company.
-datePublished: '2016-06-09T09:31:04.384Z'
-dateModified: '2016-06-09T09:31:01.227Z'
-title: ArPhiTect
+datePublished: '2016-06-09T15:30:24.831Z'
+dateModified: '2016-06-09T15:30:19.030Z'
+title: ''
 author: []
 sourcePath: _posts/2016-06-08-eugen-berlo-arphitect.md
 authors: []
@@ -23,13 +23,13 @@ url: eugen-berlo-arphitect/index.html
 _type: Article
 
 ---
-# ArPhiTect
+# Eugen Berlo Architect
 
-Established by Eugen Berlo in 2015, [ArPhiTect][0] is an architectural practice and crossdomain venture dedicated to explore and work within Value Inheritance and Golden Mean Geometric Principles using artistic and architectural means and processes. Our master believe is that great projects have strong aesthetic, functional and social ideas clad onto a core vision, engaged by both the client and maker, and able to create life and prosperity to the inhabitants and the surrounding community. With each project we push for simplicity and innovation, all with respect for environment, and site cultural and material values, and like establishing relationships that can build and develop future grounds.
+Established by Eugen Berlo in 2015, [Eugen Berlo Architect][0] is an architectural practice and crossdomain venture dedicated to explore and work within Value Inheritance and Golden Mean Geometric Principles using artistic and architectural means and processes. Our master believe is that great projects have strong aesthetic, functional and social ideas clad onto a core vision, engaged by both the client and maker, and able to create life and prosperity to the inhabitants and the surrounding community. With each project we push for simplicity and innovation, all with respect for environment, and site cultural and material values, and like establishing relationships that can build and develop future grounds.
 
-**Eugen Bogdan Berlo**  
+**Eugen Bogdan Berlo**
 
-With Bachelors in Math and Architecture from the University of Bucharest, he continued his education in Fine Arts at Fashion Institute of Technology of NYC. Prior to inception of Eugen Berlo ArPhiTect, he worked as an architect for some of the New York City's most eminent architectural firms, including world's highly renowned Skidmore, Owings and Merrill (SOM) architectural, planning and Engineering company.
+With Bachelors in Math and Architecture from the University of Bucharest, he continued his education in Fine Arts at Fashion Institute of Technology of NYC. Prior to inception of [Eugen Berlo Architect][0], he worked as an architect for some of the New York City's most eminent architectural firms, including world's highly renowned Skidmore, Owings and Merrill (SOM) architectural, planning and Engineering company.
 
 **Contact **at jointventure @ berlo dot net
 
