@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Trinity Centre Building Renovation and Offices
-datePublished: '2016-06-07T12:59:25.757Z'
-dateModified: '2016-06-07T12:59:20.299Z'
+datePublished: '2016-06-10T13:47:52.506Z'
+dateModified: '2016-06-10T13:47:49.392Z'
 title: ''
 author:
   - name: ''
