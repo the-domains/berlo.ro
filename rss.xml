@@ -4,8 +4,15 @@
         <description><![CDATA[Eugen Berlo Architect]]></description>
         <link>http://www.berlo.ro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 13:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 13:47:54 GMT</lastBuildDate>
         <atom:link href="http://www.berlo.ro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trinity Centre Building Renovation and Offices]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fa8e84-4b47-44e0-bae0-a47dae87a0d8.jpg" alt="" title="" />]]></description>
+            <link>http://www.berlo.ro/trinity-centre-building-renovation-and-offices/index.html</link>
+            <guid isPermaLink="false">9d2ff6d7-63d2-495c-92ef-cf7f94d17afd</guid>
+            <pubDate>Fri, 10 Jun 2016 13:47:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eugen Berlo Architects]]></title>
             <description><![CDATA[<p>With Bachelors in Math and Architecture from the University of Bucharest, he continued his education in Fine Arts at Fashion Institute of Technology of NYC. Prior to inception of Eugen Berlo Architects, he worked as an architect for some of the New York City’s most eminent architectural firms, including world’s highly renowned Skidmore, Owings and Merrill (SOM) architectural, planning and Engineering company.</p>]]></description>
@@ -54,13 +61,6 @@
             <link>http://www.berlo.ro/mixed-use-development/index.html</link>
             <guid isPermaLink="false">aaf19421-7f81-4626-8559-310420f6208c</guid>
             <pubDate>Tue, 07 Jun 2016 13:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trinity Centre Building Renovation and Offices]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9fa8e84-4b47-44e0-bae0-a47dae87a0d8.jpg" alt="" title="">]]></description>
-            <link>http://www.berlo.ro/trinity-centre-building-renovation-and-offices/index.html</link>
-            <guid isPermaLink="false">9d2ff6d7-63d2-495c-92ef-cf7f94d17afd</guid>
-            <pubDate>Tue, 07 Jun 2016 12:59:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
