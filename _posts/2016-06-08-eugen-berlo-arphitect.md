@@ -7,12 +7,12 @@ keywords: []
 description: >-
   With Bachelors in Math and Architecture from the University of Bucharest, he
   continued his education in Fine Arts at Fashion Institute of Technology of
-  NYC. Prior to inception of Eugen Berlo Architects, he worked as an architect
-  for some of the New York City’s most eminent architectural firms, including
+  NYC. Prior to inception of Berlo Architects, he worked as an architect for
+  some of the New York City’s most eminent architectural firms, including
   world’s highly renowned Skidmore, Owings and Merrill (SOM) architectural,
   planning and Engineering company.
-datePublished: '2016-06-15T10:02:42.961Z'
-dateModified: '2016-06-15T10:02:38.617Z'
+datePublished: '2016-06-15T10:22:31.165Z'
+dateModified: '2016-06-15T10:22:25.667Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-08-eugen-berlo-arphitect.md
@@ -23,17 +23,17 @@ url: eugen-berlo-arphitect/index.html
 _type: Article
 
 ---
-# Eugen Berlo Architects
+# Berlo Architects
 
-Established by Eugen Berlo in 2015, [Eugen Berlo Architects][0] is an architectural practice and crossdomain venture dedicated to explore and work with Building Value Inheritance and Golden Mean Geometric Principles, using artistic and architectural means and processes. Our master believe is that great projects have strong aesthetic, functional and cultural ideas clad onto a core vision, engaged by both the client and maker, and able to create life and prosperity to the inhabitants and the surrounding community. With each project we push for simplicity and innovation, all with respect for environment and site value, and like establishing relationships that can build and develop future grounds.
+Established by Eugen Berlo in 2015, [Berlo Architects][0] is an architectural practice and crossdomain venture dedicated to explore and work with Building Value Inheritance and Golden Mean Geometric Principles, using artistic and architectural means and processes. Our master believe is that great projects have strong aesthetic, functional and cultural ideas clad onto a core vision, engaged by both the client and maker, and able to create life and prosperity to the inhabitants and the surrounding community. With each project we push for simplicity and innovation, all with respect for environment and site value, and like establishing relationships that can build and develop future grounds.
 
 **Eugen Bogdan Berlo**
 
-With Bachelors in Math and Architecture from the University of Bucharest, he continued his education in Fine Arts at Fashion Institute of Technology of NYC. Prior to inception of [Eugen Berlo Architects][0], he worked as an architect for some of the New York City's most eminent architectural firms, including world's highly renowned Skidmore, Owings and Merrill (SOM) architectural, planning and Engineering company.
+With Bachelors in Math and Architecture from the University of Bucharest, he continued his education in Fine Arts at Fashion Institute of Technology of NYC. Prior to inception of [Berlo Architects][0], he worked as an architect for some of the New York City's most eminent architectural firms, including world's highly renowned Skidmore, Owings and Merrill (SOM) architectural, planning and Engineering company.
 
 **Contact **at jointventure @ berlo dot net
 
-_(c) [Eugen Berlo Architects][0](tm) | Pixels created by [PixR2][1]_
+_(c) [Berlo Architects][0](tm) | Pixels created by [PixR2][1]_
 
 [0]: http://www.berlo.ro/
 [1]: http://pixr2.com/
