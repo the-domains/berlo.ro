@@ -4,8 +4,15 @@
         <description><![CDATA[Berlo Architects]]></description>
         <link>http://www.berlo.ro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 10:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 10:29:56 GMT</lastBuildDate>
         <atom:link href="http://www.berlo.ro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<p>Established by Eugen Berlo in 2015, Berlo Architects is an architectural practice and crossdomain venture dedicated to explore and work with Building Value Inheritance and Golden Mean Geometric Principles, using artistic and architectural means and processes. Our master believe is that great projects have strong aesthetic, functional and cultural ideas clad onto a core vision, engaged by both the client and maker, and able to create life and prosperity to the inhabitants and the surrounding community. With each project we push for simplicity and innovation, all with respect for environment and site value, and like establishing relationships that can build and develop future grounds.</p>]]></description>
+            <link>http://www.berlo.ro/about/index.html</link>
+            <guid isPermaLink="false">1f6e0911-72e1-447d-bfd3-05f855d2f269</guid>
+            <pubDate>Wed, 15 Jun 2016 10:29:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<p>With Bachelors in Math and Architecture from the University of Bucharest, he continued his education in Fine Arts at Fashion Institute of Technology of NYC. Prior to inception of Berlo Architects, he worked as an architect for some of the New York City’s most eminent architectural firms, including world’s highly renowned Skidmore, Owings and Merrill (SOM) architectural, planning and Engineering company.</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.berlo.ro/cathill-house/index.html</link>
             <guid isPermaLink="false">0f5e04de-16f3-4802-adfc-3961f9c978a2</guid>
             <pubDate>Wed, 08 Jun 2016 17:26:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carriage House ]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53585b64-0ca7-4b99-a3a2-f450deb461ce.jpg">]]></description>
-            <link>http://www.berlo.ro/carriage-house/index.html</link>
-            <guid isPermaLink="false">f486de5a-45c2-423c-84cc-1c63b380c7dd</guid>
-            <pubDate>Wed, 08 Jun 2016 17:07:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
