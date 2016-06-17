@@ -4,8 +4,15 @@
         <description><![CDATA[Berlo Architects]]></description>
         <link>http://www.berlo.ro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 11:55:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 11:56:48 GMT</lastBuildDate>
         <atom:link href="http://www.berlo.ro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Residential Interiors]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0ead38b-6647-4bc7-94bc-7a847d4ae7ca.jpg">]]></description>
+            <link>http://www.berlo.ro/residential-interiors/index.html</link>
+            <guid isPermaLink="false">013bb76e-6b55-4684-8624-9c32679f538b</guid>
+            <pubDate>Fri, 17 Jun 2016 11:56:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Offices]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/295c36cb-8a27-42a7-948b-687a0308a6d2.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>http://www.berlo.ro/retail/index.html</link>
             <guid isPermaLink="false">eaffe1df-ad35-4a8b-995a-1b3db722180e</guid>
             <pubDate>Wed, 15 Jun 2016 10:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Residential Interiors]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0ead38b-6647-4bc7-94bc-7a847d4ae7ca.jpg">]]></description>
-            <link>http://www.berlo.ro/residential-interiors/index.html</link>
-            <guid isPermaLink="false">013bb76e-6b55-4684-8624-9c32679f538b</guid>
-            <pubDate>Wed, 15 Jun 2016 10:07:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bay Point Island Development]]></title>
