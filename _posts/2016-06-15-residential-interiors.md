@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Residential Interiors
-datePublished: '2016-06-15T10:07:28.876Z'
-dateModified: '2016-06-15T10:07:17.006Z'
+datePublished: '2016-06-17T11:56:09.887Z'
+dateModified: '2016-06-17T11:56:09.106Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-15-residential-interiors.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-15-residential-interiors.md
 url: residential-interiors/index.html
 _type: Article
 
@@ -25,6 +25,8 @@ Residential Interiors
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb48b955-a1cf-4502-aba8-ab1914733c12.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f54ff31-879e-46df-87b3-977f8fc1010d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b6011c5-3336-471c-af1d-c6afdad460b4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89961917-583f-40bd-85c9-d39534c7e19c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd8c3a86-8cb1-4bfb-be28-d17ca614a5a2.jpg)
 
 David Bae Architects Legacy
 
