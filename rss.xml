@@ -4,8 +4,15 @@
         <description><![CDATA[Berlo Architects]]></description>
         <link>http://www.berlo.ro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 11:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 12:07:10 GMT</lastBuildDate>
         <atom:link href="http://www.berlo.ro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mixed Use Building Developments]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c938e3cc-b9df-4432-9ad4-49800a632e50.jpg">]]></description>
+            <link>http://www.berlo.ro/mixed-use-building-developments/index.html</link>
+            <guid isPermaLink="false">6c589ec9-4284-41cf-8f2a-07e6c174c584</guid>
+            <pubDate>Fri, 17 Jun 2016 12:06:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Residential Interiors]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0ead38b-6647-4bc7-94bc-7a847d4ae7ca.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.berlo.ro/carriage-house/index.html</link>
             <guid isPermaLink="false">61230266-47f2-4bac-850a-8e37adca58be</guid>
             <pubDate>Wed, 08 Jun 2016 17:28:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cathill House]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24e610a6-27d6-4b4a-833c-68363b241b09.jpg">]]></description>
-            <link>http://www.berlo.ro/cathill-house/index.html</link>
-            <guid isPermaLink="false">0f5e04de-16f3-4802-adfc-3961f9c978a2</guid>
-            <pubDate>Wed, 08 Jun 2016 17:26:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
