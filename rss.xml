@@ -4,8 +4,15 @@
         <description><![CDATA[Berlo Architects]]></description>
         <link>http://www.berlo.ro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 10:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 10:32:33 GMT</lastBuildDate>
         <atom:link href="http://www.berlo.ro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Offices]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9a247dd-f91c-4dd2-934c-a5dadb13a690.jpg">]]></description>
+            <link>http://www.berlo.ro/offices/index.html</link>
+            <guid isPermaLink="false">8978a70a-8fb7-4a29-b199-9248ee8873a3</guid>
+            <pubDate>Fri, 24 Jun 2016 10:32:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mixed Use Building Developments]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8faaff6-92a0-4989-87a3-5798b334b636.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>http://www.berlo.ro/residential-interiors/index.html</link>
             <guid isPermaLink="false">013bb76e-6b55-4684-8624-9c32679f538b</guid>
             <pubDate>Fri, 17 Jun 2016 11:56:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Offices]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/295c36cb-8a27-42a7-948b-687a0308a6d2.jpg">]]></description>
-            <link>http://www.berlo.ro/offices/index.html</link>
-            <guid isPermaLink="false">8978a70a-8fb7-4a29-b199-9248ee8873a3</guid>
-            <pubDate>Fri, 17 Jun 2016 11:54:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Retail]]></title>
