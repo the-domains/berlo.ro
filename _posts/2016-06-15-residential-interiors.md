@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Residential Interiors
-datePublished: '2016-07-23T19:51:35.903Z'
-dateModified: '2016-07-23T19:51:31.500Z'
+datePublished: '2016-08-04T10:25:03.769Z'
+dateModified: '2016-08-04T10:24:59.536Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-15-residential-interiors.md
