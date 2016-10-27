@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-10-27T15:07:23.915Z'
+datePublished: '2016-10-27T15:56:29.846Z'
 sourcePath: _posts/2016-10-27-land-life-lines.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-27T15:07:22.099Z'
+dateModified: '2016-10-27T15:56:29.153Z'
 title: Land Life Lines
 publisher: {}
 description: 'Editions: 2013, 2014, 2015, 2016'
 starred: false
-_type: Blurb
+url: land-life-lines/index.html
+_type: Article
 
 ---
 # Land Life Lines
@@ -21,7 +23,7 @@ The ongoing project series consists of finding Earth life lines and spots, and b
 The medium is snow and local available materials.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63246486-a93e-44b3-8307-64d409529a1c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f400bdb3-13fe-43bc-976a-2e375c10119d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d1f7619-08e7-4f8e-b3d6-e6df58434a44.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b097c2e5abb9374325f555eac117215c/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1d1f7619-08e7-4f8e-b3d6-e6df58434a44.jpg&x=0&y=0)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b14ca33e-8060-4437-9568-0ad7e3d867e2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df028791-300b-4dab-a6ef-7b7bb24a5b4c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a3c83b5-4677-4a35-af1b-f4e136e33e97.jpg)
@@ -38,5 +40,5 @@ The medium is snow and local available materials.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c34ee290-1bd3-451e-ac21-ac97809aeefd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b9ff815-6d5c-45dc-83f9-bb69f3a4c0ec.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66eef8f6-9524-4cfc-8f14-7fb20371b544.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/714ebc63-a825-4050-b091-950b3ff91501.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/66bc67f7adc94597d6f35fa6cae4a415/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F714ebc63-a825-4050-b091-950b3ff91501.jpg&x=0&y=0)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c8f7995-058f-4fab-9692-3905fb5ba097.jpg)
