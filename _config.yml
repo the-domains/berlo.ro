@@ -1,29 +1,60 @@
-name: berlo.ro
-favicon: null
-layout_spectrum: 0.35856
-typography_spectrum: 0.6367879072204232
-title: Berlo Architects
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-634542-83
-  facebook: null
-  twitter: null
+typography_spectrum: 0.488764723797633
+color:
+  saturation: 0.020390341715186392
+  brandStrength: 0.7046664732831096
+  lightness: 0.9625835831852464
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  rhythmicContrast: 0.6223303016775869
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#181818'
-    - '#9e9e9e'
-    - '#e2e2e2'
-    - '#565656'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0
+layout_spectrum: 0.10689414990743125
+analytics:
+  twitter: null
+  google: UA-634542-83
+  facebook: null
+author:
+  url: ''
+  email: ''
+  name: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1743bc7f-aa54-47de-9854-93203f036f8a.png
+name: berlo.ro
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: About
+    id: 1f6e0911-72e1-447d-bfd3-05f855d2f269
+    type: content
+  - name: Services
+    id: 45bcf57c-1303-4d40-bdf7-d13c1b221ae3
+    type: content
+  - name: Contact
+    id: b1b745ba-2a5b-4c4b-a2b8-9f5f8ae8881e
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/949bbc70-8faf-4102-b0a1-8cfcca0f8acd.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: ''
+content: []
 purpose: []
