@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-31T07:38:24.916Z'
+datePublished: '2016-11-22T09:35:50.363Z'
 sourcePath: _posts/2016-10-27-land-life-lines.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-31T07:38:23.614Z'
-title: Land Life Lines
+dateModified: '2016-11-22T09:35:49.638Z'
+title: Land Life
 publisher: {}
 description: 'Editions: 2013, 2014, 2015, 2016'
 starred: false
@@ -14,11 +14,11 @@ url: land-life-lines/index.html
 _type: Article
 
 ---
-# Land Life Lines
+# Land Life
 
 Editions: 2013, 2014, 2015, 2016
 
-The ongoing project series consists of finding Earth life lines and spots, and building structures to mark harmony with nature and raise consciousness about egocentric, artificial and eccentric use of human inhabited land.
+The ongoing project series consists of building structures to mark harmony with nature and raise consciousness about egocentric, artificial and eccentric use of human inhabited land.
 
 The medium is local available materials. I look into a few critical characteristics of the object, like relative scale and distance to the surrounding elements, easy path and flow of energy currents, to be or not to be iconic mega super egocentric real need, color, light, material harmony and contrast, etc...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63246486-a93e-44b3-8307-64d409529a1c.jpg)
