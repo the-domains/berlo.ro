@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-11-22T09:35:50.363Z'
+datePublished: '2017-03-13T21:28:50.613Z'
 sourcePath: _posts/2016-10-27-land-life-lines.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-22T09:35:49.638Z'
+dateModified: '2017-03-13T21:28:49.741Z'
 title: Land Life
 publisher: {}
 description: 'Editions: 2013, 2014, 2015, 2016'
 starred: false
+datePublishedOriginal: '2016-11-22T09:35:50.363Z'
 url: land-life-lines/index.html
 _type: Article
 
@@ -20,7 +21,7 @@ Editions: 2013, 2014, 2015, 2016
 
 The ongoing project series consists of building structures to mark harmony with nature and raise consciousness about egocentric, artificial and eccentric use of human inhabited land.
 
-The medium is local available materials. I look into a few critical characteristics of the object, like relative scale and distance to the surrounding elements, easy path and flow of energy currents, to be or not to be iconic mega super egocentric real need, color, light, material harmony and contrast, etc...
+The medium is local available materials. I look into a few critical characteristics of the object, like relative scale and distance to the surrounding elements, easy path and flow of energy currents, color, light, material harmony and contrast, etc...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63246486-a93e-44b3-8307-64d409529a1c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f400bdb3-13fe-43bc-976a-2e375c10119d.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/22eb5b9746f4f6f57c4f923e20f1eb10def6aa5b.jpg)
