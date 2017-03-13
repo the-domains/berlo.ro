@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-13T21:28:51.750Z'
+datePublished: '2017-03-13T21:29:59.644Z'
 sourcePath: _posts/2016-10-27-land-life-lines.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-13T21:28:51.096Z'
+dateModified: '2017-03-13T21:29:58.785Z'
 title: Land Life
 publisher: {}
 description: 'Editions: 2013, 2014, 2015, 2016'
