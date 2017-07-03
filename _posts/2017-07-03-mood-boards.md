@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Interiors
-dateModified: '2017-07-03T18:39:57.937Z'
-datePublished: '2017-07-03T18:39:58.925Z'
+dateModified: '2017-07-03T18:43:12.571Z'
+datePublished: '2017-07-03T18:43:13.290Z'
 title: Mood Boards
 author: []
 publisher: {}
@@ -23,18 +23,27 @@ _type: Article
 
 [Workspaces][2]
 
-Kitchens
+[Kitchens][3]
 
-Bathrooms
+[Bathrooms][4]
 
-Lighting
+[Lighting][5]
 
-Bedrooms
+[Bedrooms][6]
 
-Scandinavian
+[Scandinavian][7]
 
-Furniture
+[Furniture][8]
+
+[Tradițional Românesc][9]
 
 [0]: https://www.pinterest.com/pixr2/restyle-interiors/
 [1]: https://www.pinterest.com/pixr2/architecture-architects/
 [2]: https://www.pinterest.com/pixr2/studios-workspaces-offices-ateliers/
+[3]: https://www.pinterest.com/pixr2/kitchen/
+[4]: https://www.pinterest.com/pixr2/bathroom/
+[5]: https://www.pinterest.com/pixr2/lighting/
+[6]: https://www.pinterest.com/elenaberlo/master-bedroom-ideas/
+[7]: https://www.pinterest.com/pixr2/scandinavian/
+[8]: https://www.pinterest.com/pixr2/chairs-tables-furniture-product-designers/
+[9]: https://www.pinterest.com/pixr2/traditional-romanian-tradi%C8%9Bional-rom%C3%A2nesc/
