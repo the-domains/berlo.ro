@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Interiors
-dateModified: '2017-07-03T18:38:09.107Z'
-datePublished: '2017-07-03T18:38:09.617Z'
+dateModified: '2017-07-03T18:39:57.937Z'
+datePublished: '2017-07-03T18:39:58.925Z'
 title: Mood Boards
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ _type: Article
 
 [Architecture][1]
 
-Workspaces
+[Workspaces][2]
 
 Kitchens
 
@@ -37,3 +37,4 @@ Furniture
 
 [0]: https://www.pinterest.com/pixr2/restyle-interiors/
 [1]: https://www.pinterest.com/pixr2/architecture-architects/
+[2]: https://www.pinterest.com/pixr2/studios-workspaces-offices-ateliers/
