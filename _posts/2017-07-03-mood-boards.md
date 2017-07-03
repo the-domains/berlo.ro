@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'https://www.pinterest.com/pixr2/restyle-interiors/'
-dateModified: '2017-07-03T18:18:38.269Z'
-datePublished: '2017-07-03T18:18:39.597Z'
+description: Interiors
+dateModified: '2017-07-03T18:22:00.200Z'
+datePublished: '2017-07-03T18:22:00.720Z'
 title: Mood Boards
 author: []
 publisher: {}
@@ -16,8 +16,6 @@ _type: Article
 
 ---
 # Mood Boards
-
-https://www.pinterest.com/pixr2/restyle-interiors/
 
 Interiors
 
