@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Interiors
-dateModified: '2017-07-03T18:04:20.642Z'
-datePublished: '2017-07-03T18:04:21.387Z'
+dateModified: '2017-07-03T18:13:13.350Z'
+datePublished: '2017-07-03T18:13:14.030Z'
 title: Mood Boards
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ Interiors
 
 Architecture
 
-Workspaces 
+Workspaces
 
 Kitchens
 
@@ -29,6 +29,6 @@ Lighting
 
 Bedrooms
 
-Scandinavian 
+Scandinavian
 
 Furniture
