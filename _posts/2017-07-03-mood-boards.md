@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Interiors
-dateModified: '2017-07-03T18:03:48.765Z'
-datePublished: '2017-07-03T18:03:49.911Z'
+dateModified: '2017-07-03T18:03:52.162Z'
+datePublished: '2017-07-03T18:03:52.676Z'
 title: Mood Boards
 author: []
 publisher: {}
