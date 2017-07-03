@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Interiors
-dateModified: '2017-07-03T18:35:28.761Z'
-datePublished: '2017-07-03T18:35:29.288Z'
+dateModified: '2017-07-03T18:38:09.107Z'
+datePublished: '2017-07-03T18:38:09.617Z'
 title: Mood Boards
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ _type: Article
 
 [Interiors][0]
 
-Architecture
+[Architecture][1]
 
 Workspaces
 
@@ -36,3 +36,4 @@ Scandinavian
 Furniture
 
 [0]: https://www.pinterest.com/pixr2/restyle-interiors/
+[1]: https://www.pinterest.com/pixr2/architecture-architects/
