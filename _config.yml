@@ -1,21 +1,21 @@
-typography_spectrum: 0.488764723797633
+layout_spectrum: 0.7489477143356448
+typography_spectrum: 0.06981405888001739
 color:
-  saturation: 0.020390341715186392
-  brandStrength: 0.7046664732831096
-  lightness: 0.9625835831852464
+  saturation: 0.23501201836401506
+  brandStrength: 0.7074008808950755
+  lightness: 0.9605447204100281
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  rhythmicContrast: 0.6223303016775869
+  rhythmicContrast: 0.625853850899338
 github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.10689414990743125
 analytics:
   twitter: null
   google: UA-634542-83
@@ -32,16 +32,6 @@ cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - name: About
-    id: 1f6e0911-72e1-447d-bfd3-05f855d2f269
-    type: content
-  - name: Services
-    id: 45bcf57c-1303-4d40-bdf7-d13c1b221ae3
-    type: content
-  - name: Contact
-    id: b1b745ba-2a5b-4c4b-a2b8-9f5f8ae8881e
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/949bbc70-8faf-4102-b0a1-8cfcca0f8acd.png
 collections:
@@ -56,6 +46,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ''
+title: berlo
 content: []
 purpose: []
+description: ''
