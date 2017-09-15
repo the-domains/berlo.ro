@@ -46,7 +46,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: berlo
+title: ''
 content: []
 purpose: []
 description: ''
