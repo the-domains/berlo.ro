@@ -1,19 +1,19 @@
 ---
-datePublished: '2017-09-15T08:42:16.009Z'
+datePublished: '2017-09-21T13:38:48.590Z'
 sourcePath: _posts/2016-10-27-legacy-projects.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-09-15T08:42:15.396Z'
+dateModified: '2017-09-21T13:38:48.274Z'
 title: Legacy Projects
 publisher: {}
 description: >-
   Projects we’ve managed or collaborated on while working with our former
   companies.
 isBasedOnUrl: 'http://www.berlo.ro/residential-interiors'
+datePublishedOriginal: '2017-09-21T13:38:48.590Z'
 starred: false
-datePublishedOriginal: '2017-09-15T08:42:16.009Z'
 _type: MediaObject
 
 ---
